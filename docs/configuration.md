@@ -605,7 +605,7 @@ The `refresh_period` setting allows to define the period (in seconds), at which 
         "number_assets": 20,
         "sort_key": "quoteVolume",
         "refresh_period": 1800,
-],
+}],
 ```
 
 #### PrecisionFilter
